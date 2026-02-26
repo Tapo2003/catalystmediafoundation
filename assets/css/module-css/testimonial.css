@@ -58,7 +58,7 @@
   left: 0;
   bottom: 0;
   right: 0;
-  background: rgba(var(--donatix-primary-rgb), 1);
+  background: #222222;
   mix-blend-mode: overlay;
   content: "";
 }
